@@ -1,0 +1,19 @@
+/* CSS Document */
+
+  div.comandas {
+     background:#FFA83B;
+	 height: 900px; 
+	 margin-top: -25px;
+	 background-image: url('imagens/mesa.png');
+	 background-repeat: no-repeat;
+	 background-size:cover;
+	 
+	 .menu{
+		 
+		position: absolute; 
+		top: 100px;
+		left: 100px;
+		width: 450px;
+		z-index: 9999; 
+	 }
+  }
